@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/docs",
+  "name": "@igorsaturnino-ignite-ui/docs",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,9 +11,9 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
+    "@igorsaturnino-ignite-ui/eslint-config": "*",
+    "@igorsaturnino-ignite-ui/react": "*",
+    "@igorsaturnino-ignite-ui/tokens": "*",
     "@storybook/addon-a11y": "^6.5.16",
     "phosphor-react": "^1.4.1",
     "react": "^18.2.0",
