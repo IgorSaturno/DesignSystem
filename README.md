@@ -1,11 +1,11 @@
-# Components
+## Design System
+<img src="" align="center" />
 
-- [ ] Text
-- [ ] Heading
-- [ ] Box
-- [ ] Button
-- [ ] TextInput
-- [ ] TextArea
-- [ ] CheckBox
-- [ ] Avatar
-- [ ] MultiStep
+Durante este desafio, adicionamos dois componentes (Toast e Tooltip) ao design system que foi desenvolvido durante o módulo 5.
+
+### 🛠️ Nesse projeto foi utilizado
+
+* Storybook
+* Stitches
+* Radix
+* TypeScript
