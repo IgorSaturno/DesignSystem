@@ -1,4 +1,3 @@
-/* eslint-disable prettier/prettier */
 import { colors } from '@igorsaturnino-ignite-ui/tokens'
 import { getContrast } from 'polished'
 
